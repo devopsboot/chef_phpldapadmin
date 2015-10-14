@@ -1,0 +1,35 @@
+{
+  "name": "phpldapadmin",
+  "description": "Installs/Configures phpldapadmin",
+  "long_description": "# chef_phpldapadmin\n\nTODO: Enter the cookbook description here.\n\n",
+  "maintainer": "Nclouds, Inc",
+  "maintainer_email": "info@nclouds.com",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+    "apache2": "~> 3.1.0",
+    "php": "~> 1.7.2",
+    "apt": "~> 2.8.2",
+    "tar": "~> 0.7.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}
